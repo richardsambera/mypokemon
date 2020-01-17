@@ -13,4 +13,4 @@ To get started with mypokemon, you can simply do the following:
 > yarn run dev
 ```
 
-[pokeapi]: https://tokopedia.github.io/treats
+[pokeapi]: https://pokeapi.co/docs/v2.html
