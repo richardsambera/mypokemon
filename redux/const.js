@@ -1,0 +1,7 @@
+export const actionTypes = {
+  SET_DETAIL: "SET_DETAIL",
+  SET_POKEMON: "SET_POKEMON",
+  SET_PROFILE: "SET_PROFILE",
+  INCREMENT_ID: "INCREMENT"
+
+};
