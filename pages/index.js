@@ -9,7 +9,7 @@ class Index extends React.Component {
     return (
       <>
         <Layout isTransparent>
-          <div className="fullscreen columns is-vcentered">
+          <div className="fullscreen columns is-mobile is-vcentered">
             <div className="container">
               <div className="title is-1" align="center">
                 Welcome to Pokemon World

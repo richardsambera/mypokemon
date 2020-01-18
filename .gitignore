@@ -6,6 +6,12 @@ node_modules/*
 /.pnp
 .pnp.js
 
+
+# Firebase
+.firebase/
+.firebaserc
+firebase.json
+
 # testing
 /coverage
 

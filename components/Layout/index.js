@@ -1,7 +1,6 @@
 import { connect } from "react-redux";
 import PropTypes from "prop-types";
 import Router from "next/router";
-import "./layout.sass";
 
 class Layout extends React.Component {
   state = {
